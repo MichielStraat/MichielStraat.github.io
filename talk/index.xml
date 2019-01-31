@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Past &amp; Upcoming Talks on Michiel Straat</title>
+    <link>https://michielstraat.github.io/talk/</link>
+    <description>Recent content in Past &amp; Upcoming Talks on Michiel Straat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://michielstraat.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On-line learning dynamics of ReLU neural networks using statistical physics techniques</title>
+      <link>https://michielstraat.github.io/talk/esann2019/</link>
+      <pubDate>Wed, 30 Jan 2019 23:51:20 +0100</pubDate>
+      
+      <guid>https://michielstraat.github.io/talk/esann2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segmentation of blood vessels in retinal fundus images</title>
+      <link>https://michielstraat.github.io/talk/studentcolloquium/</link>
+      <pubDate>Wed, 30 Jan 2019 23:37:51 +0100</pubDate>
+      
+      <guid>https://michielstraat.github.io/talk/studentcolloquium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-line learning in neural networks with ReLU activations</title>
+      <link>https://michielstraat.github.io/talk/mastertalk/</link>
+      <pubDate>Wed, 30 Jan 2019 23:28:00 +0100</pubDate>
+      
+      <guid>https://michielstraat.github.io/talk/mastertalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prototypes and matrix relevance learning in complex Fourier space</title>
+      <link>https://michielstraat.github.io/talk/wsom2017/</link>
+      <pubDate>Wed, 30 Jan 2019 23:07:17 +0100</pubDate>
+      
+      <guid>https://michielstraat.github.io/talk/wsom2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
