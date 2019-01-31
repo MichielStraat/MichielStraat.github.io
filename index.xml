@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michiel Straat on Michiel Straat</title>
-    <link>https://michielstraat.github.io/</link>
+    <link>https://michielstraat.com/</link>
     <description>Recent content in Michiel Straat on Michiel Straat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,73 +11,73 @@
     
     <item>
       <title>On-line learning dynamics of ReLU neural networks using statistical physics techniques</title>
-      <link>https://michielstraat.github.io/talk/esann2019/</link>
+      <link>https://michielstraat.com/talk/esann2019/</link>
       <pubDate>Wed, 30 Jan 2019 23:51:20 +0100</pubDate>
       
-      <guid>https://michielstraat.github.io/talk/esann2019/</guid>
+      <guid>https://michielstraat.com/talk/esann2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Segmentation of blood vessels in retinal fundus images</title>
-      <link>https://michielstraat.github.io/talk/studentcolloquium/</link>
+      <link>https://michielstraat.com/talk/studentcolloquium/</link>
       <pubDate>Wed, 30 Jan 2019 23:37:51 +0100</pubDate>
       
-      <guid>https://michielstraat.github.io/talk/studentcolloquium/</guid>
+      <guid>https://michielstraat.com/talk/studentcolloquium/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On-line learning in neural networks with ReLU activations</title>
-      <link>https://michielstraat.github.io/talk/mastertalk/</link>
+      <link>https://michielstraat.com/talk/mastertalk/</link>
       <pubDate>Wed, 30 Jan 2019 23:28:00 +0100</pubDate>
       
-      <guid>https://michielstraat.github.io/talk/mastertalk/</guid>
+      <guid>https://michielstraat.com/talk/mastertalk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prototypes and matrix relevance learning in complex Fourier space</title>
-      <link>https://michielstraat.github.io/talk/wsom2017/</link>
+      <link>https://michielstraat.com/talk/wsom2017/</link>
       <pubDate>Wed, 30 Jan 2019 23:07:17 +0100</pubDate>
       
-      <guid>https://michielstraat.github.io/talk/wsom2017/</guid>
+      <guid>https://michielstraat.com/talk/wsom2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Vector Quantization and relevances in complex coefficient space (forthcoming in NCAA)</title>
-      <link>https://michielstraat.github.io/publication/ncaa-2019/</link>
+      <link>https://michielstraat.com/publication/ncaa-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://michielstraat.github.io/publication/ncaa-2019/</guid>
+      <guid>https://michielstraat.com/publication/ncaa-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On-line learning dynamics of ReLU neural networks using statistical physics techniques (forthcoming in ESANN 2019 proceedings)</title>
-      <link>https://michielstraat.github.io/publication/esann-2019/</link>
+      <link>https://michielstraat.com/publication/esann-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://michielstraat.github.io/publication/esann-2019/</guid>
+      <guid>https://michielstraat.com/publication/esann-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Mechanics of On-Line Learning Under Concept Drift</title>
-      <link>https://michielstraat.github.io/publication/entropy-2018/</link>
+      <link>https://michielstraat.com/publication/entropy-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://michielstraat.github.io/publication/entropy-2018/</guid>
+      <guid>https://michielstraat.com/publication/entropy-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prototypes and matrix relevance learning in complex fourier space</title>
-      <link>https://michielstraat.github.io/publication/wsom-2017/</link>
+      <link>https://michielstraat.com/publication/wsom-2017/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://michielstraat.github.io/publication/wsom-2017/</guid>
+      <guid>https://michielstraat.com/publication/wsom-2017/</guid>
       <description></description>
     </item>
     

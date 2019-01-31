@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>F. Melchert on Michiel Straat</title>
-    <link>https://michielstraat.github.io/authors/f.-melchert/</link>
+    <link>https://michielstraat.com/authors/f.-melchert/</link>
     <description>Recent content in F. Melchert on Michiel Straat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://michielstraat.github.io/authors/f.-melchert/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://michielstraat.com/authors/f.-melchert/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Learning Vector Quantization and relevances in complex coefficient space (forthcoming in NCAA)</title>
-      <link>https://michielstraat.github.io/publication/ncaa-2019/</link>
+      <link>https://michielstraat.com/publication/ncaa-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://michielstraat.github.io/publication/ncaa-2019/</guid>
+      <guid>https://michielstraat.com/publication/ncaa-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prototypes and matrix relevance learning in complex fourier space</title>
-      <link>https://michielstraat.github.io/publication/wsom-2017/</link>
+      <link>https://michielstraat.com/publication/wsom-2017/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://michielstraat.github.io/publication/wsom-2017/</guid>
+      <guid>https://michielstraat.com/publication/wsom-2017/</guid>
       <description></description>
     </item>
     
