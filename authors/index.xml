@@ -7,17 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Michiel Straat</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://michielstraat.com/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A. Lampe</title>
-      <link>https://michielstraat.com/authors/a.-lampe/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <title>Alexander Lampe</title>
+      <link>https://michielstraat.com/authors/alexander-lampe/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://michielstraat.com/authors/a.-lampe/</guid>
+      <guid>https://michielstraat.com/authors/alexander-lampe/</guid>
       <description></description>
     </item>
     
@@ -40,11 +40,11 @@
     </item>
     
     <item>
-      <title>F. Melchert</title>
-      <link>https://michielstraat.com/authors/f.-melchert/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <title>Friedrich Melchert</title>
+      <link>https://michielstraat.com/authors/friedrich-melchert/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://michielstraat.com/authors/f.-melchert/</guid>
+      <guid>https://michielstraat.com/authors/friedrich-melchert/</guid>
       <description></description>
     </item>
     
@@ -58,45 +58,27 @@
     </item>
     
     <item>
-      <title>M. Biehl</title>
-      <link>https://michielstraat.com/authors/m.-biehl/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <title>Marika Kaden</title>
+      <link>https://michielstraat.com/authors/marika-kaden/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://michielstraat.com/authors/m.-biehl/</guid>
+      <guid>https://michielstraat.com/authors/marika-kaden/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>M. Gay</title>
-      <link>https://michielstraat.com/authors/m.-gay/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <title>Matthias Gay</title>
+      <link>https://michielstraat.com/authors/matthias-gay/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://michielstraat.com/authors/m.-gay/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. Kaden</title>
-      <link>https://michielstraat.com/authors/m.-kaden/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://michielstraat.com/authors/m.-kaden/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. Straat</title>
-      <link>https://michielstraat.com/authors/m.-straat/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://michielstraat.com/authors/m.-straat/</guid>
+      <guid>https://michielstraat.com/authors/matthias-gay/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Michael Biehl</title>
       <link>https://michielstraat.com/authors/michael-biehl/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0100</pubDate>
       
       <guid>https://michielstraat.com/authors/michael-biehl/</guid>
       <description></description>
@@ -105,7 +87,7 @@
     <item>
       <title>Michiel Straat</title>
       <link>https://michielstraat.com/authors/michiel-straat/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0100</pubDate>
       
       <guid>https://michielstraat.com/authors/michiel-straat/</guid>
       <description></description>
@@ -121,20 +103,20 @@
     </item>
     
     <item>
-      <title>T. Villmann</title>
-      <link>https://michielstraat.com/authors/t.-villmann/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <title>Thomas Villmann</title>
+      <link>https://michielstraat.com/authors/thomas-villmann/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://michielstraat.com/authors/t.-villmann/</guid>
+      <guid>https://michielstraat.com/authors/thomas-villmann/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>U. Seiffert</title>
-      <link>https://michielstraat.com/authors/u.-seiffert/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <title>Udo Seiffert</title>
+      <link>https://michielstraat.com/authors/udo-seiffert/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://michielstraat.com/authors/u.-seiffert/</guid>
+      <guid>https://michielstraat.com/authors/udo-seiffert/</guid>
       <description></description>
     </item>
     

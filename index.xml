@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Online Learning Dynamics of ReLU Neural Networks</title>
+      <link>https://michielstraat.com/talk/online-learning-dynamics-of-relu-neural-networks/</link>
+      <pubDate>Wed, 20 Mar 2019 22:47:42 +0100</pubDate>
+      
+      <guid>https://michielstraat.com/talk/online-learning-dynamics-of-relu-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Vector Quantization and relevances in complex coefficient space</title>
+      <link>https://michielstraat.com/publication/ncaa-2019/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://michielstraat.com/publication/ncaa-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>On-line learning dynamics of ReLU neural networks using statistical physics techniques</title>
       <link>https://michielstraat.com/talk/esann2019/</link>
       <pubDate>Wed, 30 Jan 2019 23:51:20 +0100</pubDate>
@@ -47,16 +65,7 @@
     </item>
     
     <item>
-      <title>Learning Vector Quantization and relevances in complex coefficient space (forthcoming in NCAA)</title>
-      <link>https://michielstraat.com/publication/ncaa-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://michielstraat.com/publication/ncaa-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On-line learning dynamics of ReLU neural networks using statistical physics techniques (forthcoming in ESANN 2019 proceedings)</title>
+      <title>On-line learning dynamics of ReLU neural networks using statistical physics techniques</title>
       <link>https://michielstraat.com/publication/esann-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       
