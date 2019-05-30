@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michiel Straat, Jorrit Oosterhof on Michiel Straat - PhD Student Intelligent Systems - RuG</title>
+    <link>https://michielstraat.com/authors/michiel-straat-jorrit-oosterhof/</link>
+    <description>Recent content in Michiel Straat, Jorrit Oosterhof on Michiel Straat - PhD Student Intelligent Systems - RuG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Michiel Straat</copyright>
+    <lastBuildDate>Wed, 30 Jan 2019 23:37:51 +0100</lastBuildDate>
+    
+	<atom:link href="https://michielstraat.com/authors/michiel-straat-jorrit-oosterhof/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Segmentation of blood vessels in retinal fundus images</title>
+      <link>https://michielstraat.com/talk/studentcolloquium/</link>
+      <pubDate>Wed, 30 Jan 2019 23:37:51 +0100</pubDate>
+      
+      <guid>https://michielstraat.com/talk/studentcolloquium/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
