@@ -7,9 +7,109 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Michiel Straat</copyright>
+    <lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://michielstraat.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>B-COSFIRE</title>
+      <link>https://michielstraat.com/tags/b-cosfire/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://michielstraat.com/tags/b-cosfire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blood vessel segmentation</title>
+      <link>https://michielstraat.com/tags/blood-vessel-segmentation/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://michielstraat.com/tags/blood-vessel-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundus</title>
+      <link>https://michielstraat.com/tags/fundus/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://michielstraat.com/tags/fundus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundus imaging</title>
+      <link>https://michielstraat.com/tags/fundus-imaging/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://michielstraat.com/tags/fundus-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processing</title>
+      <link>https://michielstraat.com/tags/image-processing/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://michielstraat.com/tags/image-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medical image analysis</title>
+      <link>https://michielstraat.com/tags/medical-image-analysis/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://michielstraat.com/tags/medical-image-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retina</title>
+      <link>https://michielstraat.com/tags/retina/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://michielstraat.com/tags/retina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retinal blood vessels</title>
+      <link>https://michielstraat.com/tags/retinal-blood-vessels/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://michielstraat.com/tags/retinal-blood-vessels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retinal image analysis</title>
+      <link>https://michielstraat.com/tags/retinal-image-analysis/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://michielstraat.com/tags/retinal-image-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segmentation</title>
+      <link>https://michielstraat.com/tags/segmentation/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://michielstraat.com/tags/segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vessel segmentation</title>
+      <link>https://michielstraat.com/tags/vessel-segmentation/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://michielstraat.com/tags/vessel-segmentation/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -22,38 +22,11 @@
     </item>
     
     <item>
-      <title>Barbara Hammer</title>
-      <link>https://michielstraat.com/authors/barbara-hammer/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://michielstraat.com/authors/barbara-hammer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Christina Göpfert</title>
-      <link>https://michielstraat.com/authors/christina-g%C3%B6pfert/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://michielstraat.com/authors/christina-g%C3%B6pfert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Friedrich Melchert</title>
       <link>https://michielstraat.com/authors/friedrich-melchert/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0100</pubDate>
       
       <guid>https://michielstraat.com/authors/friedrich-melchert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fthi Abadi</title>
-      <link>https://michielstraat.com/authors/fthi-abadi/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://michielstraat.com/authors/fthi-abadi/</guid>
       <description></description>
     </item>
     
@@ -94,15 +67,6 @@
     </item>
     
     <item>
-      <title>Michiel Straat, Jorrit Oosterhof</title>
-      <link>https://michielstraat.com/authors/michiel-straat-jorrit-oosterhof/</link>
-      <pubDate>Wed, 30 Jan 2019 23:37:51 +0100</pubDate>
-      
-      <guid>https://michielstraat.com/authors/michiel-straat-jorrit-oosterhof/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Thomas Villmann</title>
       <link>https://michielstraat.com/authors/thomas-villmann/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0100</pubDate>
@@ -117,6 +81,51 @@
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0100</pubDate>
       
       <guid>https://michielstraat.com/authors/udo-seiffert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michiel Straat, Jorrit Oosterhof</title>
+      <link>https://michielstraat.com/authors/michiel-straat-jorrit-oosterhof/</link>
+      <pubDate>Wed, 30 Jan 2019 23:37:51 +0100</pubDate>
+      
+      <guid>https://michielstraat.com/authors/michiel-straat-jorrit-oosterhof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barbara Hammer</title>
+      <link>https://michielstraat.com/authors/barbara-hammer/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://michielstraat.com/authors/barbara-hammer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christina Göpfert</title>
+      <link>https://michielstraat.com/authors/christina-g%C3%B6pfert/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://michielstraat.com/authors/christina-g%C3%B6pfert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fthi Abadi</title>
+      <link>https://michielstraat.com/authors/fthi-abadi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://michielstraat.com/authors/fthi-abadi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jorrit Oosterhof</title>
+      <link>https://michielstraat.com/authors/jorrit-oosterhof/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://michielstraat.com/authors/jorrit-oosterhof/</guid>
       <description></description>
     </item>
     

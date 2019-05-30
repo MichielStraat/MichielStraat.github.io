@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Retinal blood vessels on Michiel Straat - PhD Student Intelligent Systems - RuG</title>
+    <link>https://michielstraat.com/tags/retinal-blood-vessels/</link>
+    <description>Recent content in Retinal blood vessels on Michiel Straat - PhD Student Intelligent Systems - RuG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Michiel Straat</copyright>
+    <lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://michielstraat.com/tags/retinal-blood-vessels/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Segmentation of blood vessels in retinal fundus images</title>
+      <link>https://michielstraat.com/publication/scrug2014/scrug2014/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://michielstraat.com/publication/scrug2014/scrug2014/</guid>
+      <description>This paper was part of the 14th student colloquium at the University of Groningen and won the Best Paper Award there. You can find the proceedings with all the contributions here.</description>
+    </item>
+    
+  </channel>
+</rss>

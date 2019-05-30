@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michiel Straat - PhD Student Intelligent Systems - RuG on Michiel Straat - PhD Student Intelligent Systems - RuG</title>
@@ -7,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Michiel Straat</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2019 22:47:42 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -89,6 +88,16 @@
       
       <guid>https://michielstraat.com/publication/wsom-2017/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Segmentation of blood vessels in retinal fundus images</title>
+      <link>https://michielstraat.com/publication/scrug2014/scrug2014/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://michielstraat.com/publication/scrug2014/scrug2014/</guid>
+      <description>&lt;p&gt;This paper was part of the &lt;a href=&#34;http://www.studentcolloquium.nl/2017/&#34; target=&#34;_blank&#34;&gt;14th student colloquium&lt;/a&gt; at the University of Groningen and won the Best Paper Award there. You can find the proceedings with all the contributions &lt;a href=&#34;http://www.studentcolloquium.nl/proceedings/proceedings-2017.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
