@@ -5,12 +5,20 @@
     <link>https://michielstraat.com/talk/</link>
       <atom:link href="https://michielstraat.com/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat 2019</copyright><lastBuildDate>Fri, 26 Apr 2019 11:40:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat 2019</copyright><lastBuildDate>Thu, 12 Sep 2019 11:05:00 +0200</lastBuildDate>
     <image>
       <url>https://michielstraat.com/img/avatar.jpg</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://michielstraat.com/talk/</link>
     </image>
+    
+    <item>
+      <title>Towards a statistical physics analysis of multilayer ReLU neural networks</title>
+      <link>https://michielstraat.com/talk/miwoci/</link>
+      <pubDate>Thu, 12 Sep 2019 11:05:00 +0200</pubDate>
+      <guid>https://michielstraat.com/talk/miwoci/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On-line learning dynamics of ReLU neural networks using statistical physics techniques</title>
