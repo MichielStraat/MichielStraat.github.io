@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Image Processing on Michiel Straat - PhD Student Intelligent Systems - RuG</title>
+    <title>Image Processing | Michiel Straat - PhD Student Intelligent Systems - University of Groningen</title>
     <link>https://michielstraat.com/tags/image-processing/</link>
-    <description>Recent content in Image Processing on Michiel Straat - PhD Student Intelligent Systems - RuG</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Michiel Straat</copyright>
-    <lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://michielstraat.com/tags/image-processing/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://michielstraat.com/tags/image-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Image Processing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat 2019</copyright><lastBuildDate>Sat, 01 Apr 2017 17:06:00 +0000</lastBuildDate>
+    <image>
+      <url>https://michielstraat.com/img/avatar.jpg</url>
+      <title>Image Processing</title>
+      <link>https://michielstraat.com/tags/image-processing/</link>
+    </image>
     
     <item>
       <title>Segmentation of blood vessels in retinal fundus images</title>
       <link>https://michielstraat.com/publication/scrug-2017/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
-      
+      <pubDate>Sat, 01 Apr 2017 17:06:00 +0000</pubDate>
       <guid>https://michielstraat.com/publication/scrug-2017/</guid>
-      <description>This paper was part of the 14th student colloquium at the University of Groningen and won the Best Paper Award there. You can find the proceedings with all the contributions here.</description>
+      <description>&lt;p&gt;This paper was part of the &lt;a href=&#34;http://www.studentcolloquium.nl/2017/&#34; target=&#34;_blank&#34;&gt;14th Student Colloquium&lt;/a&gt; at the University of Groningen and won the Best Paper Award there. You can find the proceedings with all the contributions &lt;a href=&#34;http://www.studentcolloquium.nl/proceedings/proceedings-2017.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

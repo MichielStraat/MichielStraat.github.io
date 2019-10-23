@@ -1,32 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types on Michiel Straat - PhD Student Intelligent Systems - RuG</title>
+    <title>Publication_types | Michiel Straat - PhD Student Intelligent Systems - University of Groningen</title>
     <link>https://michielstraat.com/publication_types/</link>
-    <description>Recent content in Publication_types on Michiel Straat - PhD Student Intelligent Systems - RuG</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Michiel Straat</copyright>
-    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://michielstraat.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://michielstraat.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat 2019</copyright><lastBuildDate>Wed, 16 Oct 2019 17:06:00 +0000</lastBuildDate>
+    <image>
+      <url>https://michielstraat.com/img/avatar.jpg</url>
+      <title>Publication_types</title>
+      <link>https://michielstraat.com/publication_types/</link>
+    </image>
     
     <item>
-      <title>2</title>
-      <link>https://michielstraat.com/publication_types/2/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://michielstraat.com/publication_types/2/</guid>
+      <title>3</title>
+      <link>https://michielstraat.com/publication_types/3/</link>
+      <pubDate>Wed, 16 Oct 2019 17:06:00 +0000</pubDate>
+      <guid>https://michielstraat.com/publication_types/3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1</title>
       <link>https://michielstraat.com/publication_types/1/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
+      <pubDate>Wed, 24 Apr 2019 17:06:00 +0000</pubDate>
       <guid>https://michielstraat.com/publication_types/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>https://michielstraat.com/publication_types/2/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/publication_types/2/</guid>
       <description></description>
     </item>
     

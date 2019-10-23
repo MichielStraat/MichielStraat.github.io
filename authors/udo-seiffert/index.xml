@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Udo Seiffert on Michiel Straat - PhD Student Intelligent Systems - RuG</title>
+    <title>Udo Seiffert | Michiel Straat - PhD Student Intelligent Systems - University of Groningen</title>
     <link>https://michielstraat.com/authors/udo-seiffert/</link>
-    <description>Recent content in Udo Seiffert on Michiel Straat - PhD Student Intelligent Systems - RuG</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Michiel Straat</copyright>
-    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://michielstraat.com/authors/udo-seiffert/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://michielstraat.com/authors/udo-seiffert/index.xml" rel="self" type="application/rss+xml" />
+    <description>Udo Seiffert</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat 2019</copyright><lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://michielstraat.com/img/avatar.jpg</url>
+      <title>Udo Seiffert</title>
+      <link>https://michielstraat.com/authors/udo-seiffert/</link>
+    </image>
     
     <item>
       <title>Learning Vector Quantization and relevances in complex coefficient space</title>
       <link>https://michielstraat.com/publication/ncaa-2019/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0100</pubDate>
-      
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://michielstraat.com/publication/ncaa-2019/</guid>
       <description></description>
     </item>
@@ -24,8 +23,7 @@
     <item>
       <title>Prototypes and matrix relevance learning in complex Fourier space</title>
       <link>https://michielstraat.com/publication/wsom-2017/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
-      
+      <pubDate>Sat, 01 Jul 2017 17:06:00 +0000</pubDate>
       <guid>https://michielstraat.com/publication/wsom-2017/</guid>
       <description></description>
     </item>

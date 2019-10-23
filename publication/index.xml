@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Michiel Straat - PhD Student Intelligent Systems - RuG</title>
+    <title>Publications | Michiel Straat - PhD Student Intelligent Systems - University of Groningen</title>
     <link>https://michielstraat.com/publication/</link>
-    <description>Recent content in Publications on Michiel Straat - PhD Student Intelligent Systems - RuG</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Michiel Straat</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://michielstraat.com/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://michielstraat.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat 2019</copyright><lastBuildDate>Wed, 16 Oct 2019 17:06:00 +0000</lastBuildDate>
+    <image>
+      <url>https://michielstraat.com/img/avatar.jpg</url>
+      <title>Publications</title>
+      <link>https://michielstraat.com/publication/</link>
+    </image>
     
     <item>
-      <title>Learning Vector Quantization and relevances in complex coefficient space</title>
-      <link>https://michielstraat.com/publication/ncaa-2019/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://michielstraat.com/publication/ncaa-2019/</guid>
+      <title>Preprint: Hidden Unit Specialization in Layered Neural Networks: ReLU vs. Sigmoidal Activation</title>
+      <link>https://michielstraat.com/publication/relusigmoid/</link>
+      <pubDate>Wed, 16 Oct 2019 17:06:00 +0000</pubDate>
+      <guid>https://michielstraat.com/publication/relusigmoid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On-line learning dynamics of ReLU neural networks using statistical physics techniques</title>
       <link>https://michielstraat.com/publication/esann-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
+      <pubDate>Wed, 24 Apr 2019 17:06:00 +0000</pubDate>
       <guid>https://michielstraat.com/publication/esann-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Vector Quantization and relevances in complex coefficient space</title>
+      <link>https://michielstraat.com/publication/ncaa-2019/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/publication/ncaa-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Mechanics of On-Line Learning Under Concept Drift</title>
       <link>https://michielstraat.com/publication/entropy-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
+      <pubDate>Mon, 01 Oct 2018 17:06:00 +0000</pubDate>
       <guid>https://michielstraat.com/publication/entropy-2018/</guid>
       <description></description>
     </item>
@@ -42,8 +47,7 @@
     <item>
       <title>Prototypes and matrix relevance learning in complex Fourier space</title>
       <link>https://michielstraat.com/publication/wsom-2017/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0200</pubDate>
-      
+      <pubDate>Sat, 01 Jul 2017 17:06:00 +0000</pubDate>
       <guid>https://michielstraat.com/publication/wsom-2017/</guid>
       <description></description>
     </item>
@@ -51,10 +55,10 @@
     <item>
       <title>Segmentation of blood vessels in retinal fundus images</title>
       <link>https://michielstraat.com/publication/scrug-2017/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0200</pubDate>
-      
+      <pubDate>Sat, 01 Apr 2017 17:06:00 +0000</pubDate>
       <guid>https://michielstraat.com/publication/scrug-2017/</guid>
-      <description>This paper was part of the 14th student colloquium at the University of Groningen and won the Best Paper Award there. You can find the proceedings with all the contributions here.</description>
+      <description>&lt;p&gt;This paper was part of the &lt;a href=&#34;http://www.studentcolloquium.nl/2017/&#34; target=&#34;_blank&#34;&gt;14th Student Colloquium&lt;/a&gt; at the University of Groningen and won the Best Paper Award there. You can find the proceedings with all the contributions &lt;a href=&#34;http://www.studentcolloquium.nl/proceedings/proceedings-2017.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
