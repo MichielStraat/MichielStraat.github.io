@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.5.0">
+  <meta name="generator" content="Source Themes Academic 4.6.1">
 
   
 
@@ -89,6 +89,42 @@
   
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-133663306-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-133663306-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -202,7 +238,7 @@
 
       
       
-      <ul class="navbar-nav mr-auto">
+      <ul class="navbar-nav ml-auto">
         
 
         
@@ -2737,15 +2773,9 @@
       
       
         
-        
-        
-        
-        
-        
-        
         <li>
           <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-          <span id="person-address">Nijenborgh 9, Groningen, 9747AG, The Netherlands</span>
+          <span id="person-address">Nijenborgh 9, Groningen, 9747AG</span>
         </li>
       
 
@@ -2795,7 +2825,7 @@
       <input id="map-provider" value="2">
       <input id="map-lat" value="53.2402211">
       <input id="map-lng" value="6.5365993">
-      <input id="map-dir" value="Nijenborgh 9, Groningen, 9747AG, The Netherlands">
+      <input id="map-dir" value="Nijenborgh 9, Groningen, 9747AG">
       <input id="map-zoom" value="15">
       <input id="map-api-key" value="">
     </div>
@@ -2875,7 +2905,7 @@
     
     
     
-    <script src="/js/academic.min.368ad8701ddf69c34950016f6435139b.js"></script>
+    <script src="/js/academic.min.e8215ca28db30837697c25157aaa8c54.js"></script>
 
     
 

@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.5.0">
+  <meta name="generator" content="Source Themes Academic 4.6.1">
 
   
 
@@ -89,6 +89,42 @@
   
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-133663306-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-133663306-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -244,7 +280,7 @@
 
       
       
-      <ul class="navbar-nav mr-auto">
+      <ul class="navbar-nav ml-auto">
         
 
         
@@ -592,7 +628,7 @@
             12th International Workshop on Self-Organizing Maps and Learning Vector Quantization, Clustering and Data Visualization - WSOM+ 2017
             </a>
           </div>
-        </div> 
+        </div>
       </div>
       <div class="col-md-1"></div>
     </div>
@@ -607,15 +643,8 @@
           <div class="col-12 col-md-3 pub-row-heading">Location</div>
           <div class="col-12 col-md-9">Laboratoire lorrain de recherche en informatique et ses applications (Loria)</div>
           
-            
-            
-            
-            
-            
-            
-            
             <div class="col-md-3"></div>
-            <div class="col-12 col-md-9">Nancy, France</div>
+            <div class="col-12 col-md-9">Nancy, </div>
           
         </div>
       </div>
@@ -992,7 +1021,7 @@
     
     
     
-    <script src="/js/academic.min.368ad8701ddf69c34950016f6435139b.js"></script>
+    <script src="/js/academic.min.e8215ca28db30837697c25157aaa8c54.js"></script>
 
     
 
