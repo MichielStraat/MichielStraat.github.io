@@ -19,17 +19,62 @@
   
   <url>
     <loc>https://michielstraat.com/authors/admin/</loc>
-    <lastmod>2019-10-16T17:06:00+00:00</lastmod>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://michielstraat.com/publication_types/3/</loc>
-    <lastmod>2019-10-16T17:06:00+00:00</lastmod>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://michielstraat.com/authors/</loc>
-    <lastmod>2019-10-16T17:06:00+00:00</lastmod>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michielstraat.com/authors/barbara-hammer/</loc>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michielstraat.com/authors/christina-gopfert/</loc>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michielstraat.com/authors/fthi-abadi/</loc>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michielstraat.com/authors/michael-biehl/</loc>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michielstraat.com/</loc>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michielstraat.com/publication/conceptdrift2020/</loc>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michielstraat.com/publication_types/</loc>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michielstraat.com/publication/</loc>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michielstraat.com/authors/zhuoyun-kan/</loc>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -38,27 +83,7 @@
   </url>
   
   <url>
-    <loc>https://michielstraat.com/authors/michael-biehl/</loc>
-    <lastmod>2019-10-16T17:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michielstraat.com/</loc>
-    <lastmod>2019-10-16T17:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://michielstraat.com/publication/relusigmoid/</loc>
-    <lastmod>2019-10-16T17:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michielstraat.com/publication_types/</loc>
-    <lastmod>2019-10-16T17:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michielstraat.com/publication/</loc>
     <lastmod>2019-10-16T17:06:00+00:00</lastmod>
   </url>
   
@@ -80,6 +105,11 @@
   <url>
     <loc>https://michielstraat.com/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michielstraat.com/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -155,21 +185,6 @@
   <url>
     <loc>https://michielstraat.com/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michielstraat.com/authors/barbara-hammer/</loc>
-    <lastmod>2018-10-01T17:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michielstraat.com/authors/christina-gopfert/</loc>
-    <lastmod>2018-10-01T17:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michielstraat.com/authors/fthi-abadi/</loc>
-    <lastmod>2018-10-01T17:06:00+00:00</lastmod>
   </url>
   
   <url>
@@ -285,10 +300,6 @@
   <url>
     <loc>https://michielstraat.com/categories/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michielstraat.com/courses/</loc>
   </url>
   
 </urlset>

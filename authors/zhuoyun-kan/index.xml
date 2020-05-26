@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Michiel Straat - PhD Student Intelligent Systems - University of Groningen</title>
-    <link>https://michielstraat.com/publication_types/3/</link>
-      <atom:link href="https://michielstraat.com/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
-    <description>3</description>
+    <title>Zhuoyun Kan | Michiel Straat - PhD Student Intelligent Systems - University of Groningen</title>
+    <link>https://michielstraat.com/authors/zhuoyun-kan/</link>
+      <atom:link href="https://michielstraat.com/authors/zhuoyun-kan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhuoyun Kan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat 2019</copyright><lastBuildDate>Thu, 21 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://michielstraat.com/img/avatar.jpg</url>
-      <title>3</title>
-      <link>https://michielstraat.com/publication_types/3/</link>
+      <title>Zhuoyun Kan</title>
+      <link>https://michielstraat.com/authors/zhuoyun-kan/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://michielstraat.com/publication/conceptdrift2020/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
       <guid>https://michielstraat.com/publication/conceptdrift2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Preprint: Hidden Unit Specialization in Layered Neural Networks: ReLU vs. Sigmoidal Activation</title>
-      <link>https://michielstraat.com/publication/relusigmoid/</link>
-      <pubDate>Wed, 16 Oct 2019 17:06:00 +0000</pubDate>
-      <guid>https://michielstraat.com/publication/relusigmoid/</guid>
       <description></description>
     </item>
     
