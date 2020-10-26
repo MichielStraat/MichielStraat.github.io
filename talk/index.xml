@@ -5,12 +5,20 @@
     <link>https://michielstraat.com/talk/</link>
       <atom:link href="https://michielstraat.com/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat 2020</copyright><lastBuildDate>Thu, 12 Sep 2019 11:05:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat 2020</copyright><lastBuildDate>Wed, 12 Aug 2020 19:00:00 +0100</lastBuildDate>
     <image>
       <url>https://michielstraat.com/img/avatar.jpg</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://michielstraat.com/talk/</link>
     </image>
+    
+    <item>
+      <title>Dynamics of on-line learning in two-layer neural networks in the presence of concept drift</title>
+      <link>https://michielstraat.com/talk/leshouches2020/</link>
+      <pubDate>Wed, 12 Aug 2020 19:00:00 +0100</pubDate>
+      <guid>https://michielstraat.com/talk/leshouches2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards a statistical physics analysis of multilayer ReLU neural networks</title>

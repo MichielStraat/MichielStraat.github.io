@@ -5,12 +5,20 @@
     <link>https://michielstraat.com/publication/</link>
       <atom:link href="https://michielstraat.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat 2020</copyright><lastBuildDate>Thu, 21 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat 2020</copyright><lastBuildDate>Mon, 31 Aug 2020 09:40:30 +0000</lastBuildDate>
     <image>
       <url>https://michielstraat.com/img/avatar.jpg</url>
       <title>Publications</title>
       <link>https://michielstraat.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Technical report: Complex-valued embeddings of generic proximity data</title>
+      <link>https://michielstraat.com/publication/trcomplex-embedding-2020/</link>
+      <pubDate>Mon, 31 Aug 2020 09:40:30 +0000</pubDate>
+      <guid>https://michielstraat.com/publication/trcomplex-embedding-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Preprint: Supervised Learning in the Presence of Concept Drift: A modelling framework</title>

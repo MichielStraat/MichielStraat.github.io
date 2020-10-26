@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maximilian Münch | Michiel Straat - PhD Student Intelligent Systems - University of Groningen</title>
+    <link>https://michielstraat.com/authors/maximilian-munch/</link>
+      <atom:link href="https://michielstraat.com/authors/maximilian-munch/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maximilian Münch</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat 2020</copyright><lastBuildDate>Mon, 31 Aug 2020 09:40:30 +0000</lastBuildDate>
+    <image>
+      <url>https://michielstraat.com/img/avatar.jpg</url>
+      <title>Maximilian Münch</title>
+      <link>https://michielstraat.com/authors/maximilian-munch/</link>
+    </image>
+    
+    <item>
+      <title>Technical report: Complex-valued embeddings of generic proximity data</title>
+      <link>https://michielstraat.com/publication/trcomplex-embedding-2020/</link>
+      <pubDate>Mon, 31 Aug 2020 09:40:30 +0000</pubDate>
+      <guid>https://michielstraat.com/publication/trcomplex-embedding-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
