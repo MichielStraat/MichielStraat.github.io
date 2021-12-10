@@ -5,7 +5,7 @@
     <link>https://michielstraat.com/talk/</link>
       <atom:link href="https://michielstraat.com/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat 2020</copyright><lastBuildDate>Wed, 12 Aug 2020 19:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat 2020</copyright><lastBuildDate>Wed, 03 Mar 2021 16:00:00 +0100</lastBuildDate>
     <image>
       <url>https://michielstraat.com/img/avatar.jpg</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,11 +13,29 @@
     </image>
     
     <item>
+      <title>Feedback Alignment methods for training neural networks</title>
+      <link>https://michielstraat.com/talk/feedbackalignment/</link>
+      <pubDate>Wed, 03 Mar 2021 16:00:00 +0100</pubDate>
+      <guid>https://michielstraat.com/talk/feedbackalignment/</guid>
+      <description>&lt;p&gt;I got inspired by a talk by Timothy Lillicrap, which you can find below.
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/-kHLKLLxIF4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Dynamics of on-line learning in two-layer neural networks in the presence of concept drift</title>
       <link>https://michielstraat.com/talk/leshouches2020/</link>
       <pubDate>Wed, 12 Aug 2020 19:00:00 +0100</pubDate>
       <guid>https://michielstraat.com/talk/leshouches2020/</guid>
-      <description></description>
+      <description>&lt;p&gt;A recording of the talk can be found below.
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe width=&#34;100%&#34; height=&#34;100%&#34; src=&#34;https://www.youtube.com/embed/A0es7OZ05DI?start=1891&#34; title=&#34;YouTube video player&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>

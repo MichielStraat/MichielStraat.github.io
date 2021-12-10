@@ -78,6 +78,16 @@
   </url>
   
   <url>
+    <loc>https://michielstraat.com/talk/feedbackalignment/</loc>
+    <lastmod>2021-03-03T16:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michielstraat.com/talk/</loc>
+    <lastmod>2021-03-03T16:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://michielstraat.com/authors/elisa-oostwal/</loc>
     <lastmod>2020-11-04T17:06:00+00:00</lastmod>
   </url>
@@ -113,11 +123,6 @@
   </url>
   
   <url>
-    <loc>https://michielstraat.com/talk/</loc>
-    <lastmod>2020-08-12T19:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://michielstraat.com/talk/miwoci2020/</loc>
     <lastmod>2020-07-02T11:30:00+02:00</lastmod>
   </url>
@@ -135,11 +140,6 @@
   <url>
     <loc>https://michielstraat.com/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michielstraat.com/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -325,6 +325,10 @@
   <url>
     <loc>https://michielstraat.com/categories/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michielstraat.com/courses/</loc>
   </url>
   
 </urlset>

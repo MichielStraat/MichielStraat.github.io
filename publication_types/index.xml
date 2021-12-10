@@ -12,5 +12,29 @@
       <link>https://michielstraat.com/publication_types/</link>
     </image>
     
+    <item>
+      <title>2</title>
+      <link>https://michielstraat.com/publication_types/2/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3</title>
+      <link>https://michielstraat.com/publication_types/3/</link>
+      <pubDate>Mon, 31 Aug 2020 09:40:30 +0000</pubDate>
+      <guid>https://michielstraat.com/publication_types/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1</title>
+      <link>https://michielstraat.com/publication_types/1/</link>
+      <pubDate>Wed, 24 Apr 2019 17:06:00 +0000</pubDate>
+      <guid>https://michielstraat.com/publication_types/1/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

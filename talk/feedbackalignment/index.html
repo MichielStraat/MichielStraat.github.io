@@ -28,10 +28,14 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="In order to compute weight updates, backpropagation uses complete knowledge of the downstream weights in the network. In [1] it is shown that this can be significantly relaxed by using fixed random weight matrices to transport error signals in the feedback path. The algorithm, termed Feedback Alignment, shows similar performance to backpropagation in several machine learning tasks. In [2] it is shown that even a direct feedback path from the final error to each individual layer results in the learning of useful features and competitive performance compared to backpropagation. In this talk I will briefly introduce the method, give an explanation of how learning arises and discuss results of experiments. I am inspired by
+
+[1] T. P. Lillicrap, D. Cownden, D.B. Tweed, C. J. Akerman, Random feedback weights support learning in deep neural networks
+
+[2] A. Nøkland, Direct Feedback Alignment Provides Learning in Deep Neural Networks">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://michielstraat.com/talk/esann2019/">
+  <link rel="alternate" hreflang="en-us" href="https://michielstraat.com/talk/feedbackalignment/">
 
   
 
@@ -136,7 +140,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://michielstraat.com/talk/esann2019/">
+  <link rel="canonical" href="https://michielstraat.com/talk/feedbackalignment/">
 
   
   
@@ -151,15 +155,19 @@
   <meta property="twitter:creator" content="@MichielStraat">
   
   <meta property="og:site_name" content="Michiel Straat - PhD Student Intelligent Systems - University of Groningen">
-  <meta property="og:url" content="https://michielstraat.com/talk/esann2019/">
-  <meta property="og:title" content="On-line learning dynamics of ReLU neural networks using statistical physics techniques | Michiel Straat - PhD Student Intelligent Systems - University of Groningen">
-  <meta property="og:description" content=""><meta property="og:image" content="https://michielstraat.com/img/avatar.jpg">
+  <meta property="og:url" content="https://michielstraat.com/talk/feedbackalignment/">
+  <meta property="og:title" content="Feedback Alignment methods for training neural networks | Michiel Straat - PhD Student Intelligent Systems - University of Groningen">
+  <meta property="og:description" content="In order to compute weight updates, backpropagation uses complete knowledge of the downstream weights in the network. In [1] it is shown that this can be significantly relaxed by using fixed random weight matrices to transport error signals in the feedback path. The algorithm, termed Feedback Alignment, shows similar performance to backpropagation in several machine learning tasks. In [2] it is shown that even a direct feedback path from the final error to each individual layer results in the learning of useful features and competitive performance compared to backpropagation. In this talk I will briefly introduce the method, give an explanation of how learning arises and discuss results of experiments. I am inspired by
+
+[1] T. P. Lillicrap, D. Cownden, D.B. Tweed, C. J. Akerman, Random feedback weights support learning in deep neural networks
+
+[2] A. Nøkland, Direct Feedback Alignment Provides Learning in Deep Neural Networks"><meta property="og:image" content="https://michielstraat.com/img/avatar.jpg">
   <meta property="twitter:image" content="https://michielstraat.com/img/avatar.jpg"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2019-04-26T11:40:00&#43;01:00">
+      <meta property="article:published_time" content="2020-08-12T19:00:00&#43;01:00">
     
-    <meta property="article:modified_time" content="2019-04-26T11:40:00&#43;01:00">
+    <meta property="article:modified_time" content="2021-03-03T16:00:00&#43;01:00">
   
 
   
@@ -178,26 +186,26 @@
   "@type": "Event",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://michielstraat.com/talk/esann2019/"
+    "@id": "https://michielstraat.com/talk/feedbackalignment/"
   },
-  "name": "On-line learning dynamics of ReLU neural networks using statistical physics techniques",
+  "name": "Feedback Alignment methods for training neural networks",
   
   "location": {
     "@type": "Place",
-    "name": "Novotel hotel",
+    "name": "Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Katelijnestraat 65B",
-      "addressLocality": "Bruges",
-      "postalCode": "B - 8000",
-      "addressRegion": "West Flanders",
-      "addressCountry": "Belgium"
+      "streetAddress": "Nijenborgh 9",
+      "addressLocality": "Groningen",
+      "postalCode": "9700 AG",
+      "addressRegion": "Groningen",
+      "addressCountry": "The Netherlands"
     }
     
   },
   
   
-  "startDate": "2019-04-26T11:40:00+01:00",
+  "startDate": "2021-03-03T16:00:00+01:00",
   
   
   "performer": {
@@ -205,7 +213,7 @@
     "name": "Michiel Straat"
   },
   
-  "description": ""
+  "description": "In order to compute weight updates, backpropagation uses complete knowledge of the downstream weights in the network. In [1] it is shown that this can be significantly relaxed by using fixed random weight matrices to transport error signals in the feedback path. The algorithm, termed Feedback Alignment, shows similar performance to backpropagation in several machine learning tasks. In [2] it is shown that even a direct feedback path from the final error to each individual layer results in the learning of useful features and competitive performance compared to backpropagation. In this talk I will briefly introduce the method, give an explanation of how learning arises and discuss results of experiments. I am inspired by\n\n[1] T. P. Lillicrap, D. Cownden, D.B. Tweed, C. J. Akerman, Random feedback weights support learning in deep neural networks\n\n[2] A. Nøkland, Direct Feedback Alignment Provides Learning in Deep Neural Networks"
 }
 </script>
 
@@ -221,7 +229,7 @@
 
 
 
-  <title>On-line learning dynamics of ReLU neural networks using statistical physics techniques | Michiel Straat - PhD Student Intelligent Systems - University of Groningen</title>
+  <title>Feedback Alignment methods for training neural networks | Michiel Straat - PhD Student Intelligent Systems - University of Groningen</title>
 
 </head>
 
@@ -495,7 +503,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>On-line learning dynamics of ReLU neural networks using statistical physics techniques</h1>
+  <h1>Feedback Alignment methods for training neural networks</h1>
 
   
 
@@ -566,7 +574,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="/files/slides/ESANN2019.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="/files/slides/FeedbackAlignment.pdf" target="_blank" rel="noopener">
   Slides
 </a>
 
@@ -587,7 +595,13 @@
   <div class="article-container">
 
     
-      <br>
+      <h3>Abstract</h3>
+      <p class="pub-abstract"><p>In order to compute weight updates, backpropagation uses complete knowledge of the downstream weights in the network. In [1] it is shown that this can be significantly relaxed by using fixed random weight matrices to transport error signals in the feedback path. The algorithm, termed Feedback Alignment, shows similar performance to backpropagation in several machine learning tasks. In [2] it is shown that even a direct feedback path from the final error to each individual layer results in the learning of useful features and competitive performance compared to backpropagation. In this talk I will briefly introduce the method, give an explanation of how learning arises and discuss results of experiments. I am inspired by</p>
+
+<p>[1] T. P. Lillicrap, D. Cownden, D.B. Tweed, C. J. Akerman, Random feedback weights support learning in deep neural networks</p>
+
+<p>[2] A. Nøkland, Direct Feedback Alignment Provides Learning in Deep Neural Networks</p>
+</p>
     
 
     <div class="row">
@@ -596,7 +610,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9">
-            Apr 26, 2019 11:40 AM
+            Mar 3, 2021 4:00 PM
           </div>
         </div>
       </div>
@@ -611,9 +625,9 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Event</div>
           <div class="col-12 col-md-9">
-            <a href="https://www.elen.ucl.ac.be/esann/" target="_blank" rel="noopener">
-            European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning - ESANN 2019
-            </a>
+            
+            Intelligent Systems group seminar, Groningen, March 2021
+            
           </div>
         </div>
       </div>
@@ -628,10 +642,10 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Location</div>
-          <div class="col-12 col-md-9">Novotel hotel</div>
+          <div class="col-12 col-md-9">Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence</div>
           
             <div class="col-md-3"></div>
-            <div class="col-12 col-md-9">Katelijnestraat 65B, Bruges, West Flanders B - 8000</div>
+            <div class="col-12 col-md-9">Nijenborgh 9, Groningen, Groningen 9700 AG</div>
           
         </div>
       </div>
@@ -643,7 +657,13 @@
     <div class="space-below"></div>
 
     <div class="article-style">
-      
+      <p>I got inspired by a talk by Timothy Lillicrap, which you can find below.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/-kHLKLLxIF4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+</p>
+
     </div>
 
     
@@ -665,7 +685,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://michielstraat.com/talk/esann2019/&amp;text=On-line%20learning%20dynamics%20of%20ReLU%20neural%20networks%20using%20statistical%20physics%20techniques" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://michielstraat.com/talk/feedbackalignment/&amp;text=Feedback%20Alignment%20methods%20for%20training%20neural%20networks" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -678,7 +698,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://michielstraat.com/talk/esann2019/&amp;t=On-line%20learning%20dynamics%20of%20ReLU%20neural%20networks%20using%20statistical%20physics%20techniques" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://michielstraat.com/talk/feedbackalignment/&amp;t=Feedback%20Alignment%20methods%20for%20training%20neural%20networks" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -691,7 +711,7 @@
       
       
       <li>
-        <a href="mailto:?subject=On-line%20learning%20dynamics%20of%20ReLU%20neural%20networks%20using%20statistical%20physics%20techniques&amp;body=https://michielstraat.com/talk/esann2019/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Feedback%20Alignment%20methods%20for%20training%20neural%20networks&amp;body=https://michielstraat.com/talk/feedbackalignment/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -704,7 +724,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://michielstraat.com/talk/esann2019/&amp;title=On-line%20learning%20dynamics%20of%20ReLU%20neural%20networks%20using%20statistical%20physics%20techniques" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://michielstraat.com/talk/feedbackalignment/&amp;title=Feedback%20Alignment%20methods%20for%20training%20neural%20networks" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -717,7 +737,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=On-line%20learning%20dynamics%20of%20ReLU%20neural%20networks%20using%20statistical%20physics%20techniques%20https://michielstraat.com/talk/esann2019/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Feedback%20Alignment%20methods%20for%20training%20neural%20networks%20https://michielstraat.com/talk/feedbackalignment/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -730,7 +750,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://michielstraat.com/talk/esann2019/&amp;title=On-line%20learning%20dynamics%20of%20ReLU%20neural%20networks%20using%20statistical%20physics%20techniques" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://michielstraat.com/talk/feedbackalignment/&amp;title=Feedback%20Alignment%20methods%20for%20training%20neural%20networks" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>

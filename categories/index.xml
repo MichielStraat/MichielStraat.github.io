@@ -12,5 +12,13 @@
       <link>https://michielstraat.com/categories/</link>
     </image>
     
+    <item>
+      <title>Demo</title>
+      <link>https://michielstraat.com/categories/demo/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/categories/demo/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
