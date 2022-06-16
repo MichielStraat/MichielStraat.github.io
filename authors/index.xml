@@ -5,7 +5,7 @@
     <link>https://michielstraat.com/authors/</link>
       <atom:link href="https://michielstraat.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2021`</copyright><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2022`</copyright><lastBuildDate>Mon, 13 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://michielstraat.com/img/avatar.jpg</url>
       <title>Authors</title>
@@ -15,10 +15,34 @@
     <item>
       <title></title>
       <link>https://michielstraat.com/authors/admin/</link>
-      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://michielstraat.com/authors/admin/</guid>
       <description>&lt;p&gt;I am a PhD student in the &lt;a href=&#34;http://www.cs.rug.nl/is/&#34; target=&#34;_blank&#34;&gt;Intelligent Systems group&lt;/a&gt; at the &lt;a href=&#34;https://www.rug.nl/research/bernoulli/&#34; target=&#34;_blank&#34;&gt;Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence&lt;/a&gt;. In the project, we use techniques from statistical physics to analyze the learning behavior of machine learning models in order to get more insight into practically relevant phenomena, which can be used to improve machine learning algorithms. Furthermore, my work focuses on making industrial processes more intelligent.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Kerstin Bunte</title>
+      <link>https://michielstraat.com/authors/kerstin-bunte/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/authors/kerstin-bunte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Koster</title>
+      <link>https://michielstraat.com/authors/kevin-koster/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/authors/kevin-koster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nick Goet</title>
+      <link>https://michielstraat.com/authors/nick-goet/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/authors/nick-goet/</guid>
+      <description></description>
     </item>
     
     <item>
