@@ -5,12 +5,20 @@
     <link>https://michielstraat.com/talk/</link>
       <atom:link href="https://michielstraat.com/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2022`</copyright><lastBuildDate>Wed, 03 Mar 2021 16:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2022`</copyright><lastBuildDate>Wed, 20 Jul 2022 17:40:00 +0100</lastBuildDate>
     <image>
       <url>https://michielstraat.com/img/avatar.jpg</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://michielstraat.com/talk/</link>
     </image>
+    
+    <item>
+      <title>An Industry 4.0 example: real-time quality control for steel-based mass production using Machine Learning on non-invasive sensor data</title>
+      <link>https://michielstraat.com/talk/ijcnn2022/</link>
+      <pubDate>Wed, 20 Jul 2022 17:40:00 +0100</pubDate>
+      <guid>https://michielstraat.com/talk/ijcnn2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Feedback Alignment methods for training neural networks</title>
