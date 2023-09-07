@@ -5,7 +5,7 @@
     <link>https://michielstraat.com/</link>
       <atom:link href="https://michielstraat.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Michiel Straat - Researcher in Machine Learning - Bielefeld University</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2023`</copyright><lastBuildDate>Wed, 20 Jul 2022 17:40:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2023`</copyright><lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://michielstraat.com/img/avatar.jpg</url>
       <title>Michiel Straat - Researcher in Machine Learning - Bielefeld University</title>
@@ -79,6 +79,26 @@
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Off-line Learning Analysis for Soft Committee Machines with GELU Activation</title>
+      <link>https://michielstraat.com/publication/dataninja-2023/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/publication/dataninja-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling adversarial training</title>
+      <link>https://michielstraat.com/talk/wisci2023/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0100</pubDate>
+      <guid>https://michielstraat.com/talk/wisci2023/</guid>
+      <description>&lt;!-- A recording of the talk can be found below.
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe width=&#34;100%&#34; height=&#34;100%&#34; src=&#34;https://www.youtube.com/embed/A0es7OZ05DI?start=1891&#34; title=&#34;YouTube video player&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt; --&gt;
 </description>
     </item>
     

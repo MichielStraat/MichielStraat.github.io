@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Elisa Oostwal | Michiel Straat - Researcher in Machine Learning - Bielefeld University</title>
-    <link>https://michielstraat.com/authors/elisa-oostwal/</link>
-      <atom:link href="https://michielstraat.com/authors/elisa-oostwal/index.xml" rel="self" type="application/rss+xml" />
-    <description>Elisa Oostwal</description>
+    <title>Frederieke Richert | Michiel Straat - Researcher in Machine Learning - Bielefeld University</title>
+    <link>https://michielstraat.com/authors/frederieke-richert/</link>
+      <atom:link href="https://michielstraat.com/authors/frederieke-richert/index.xml" rel="self" type="application/rss+xml" />
+    <description>Frederieke Richert</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2023`</copyright><lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://michielstraat.com/img/avatar.jpg</url>
-      <title>Elisa Oostwal</title>
-      <link>https://michielstraat.com/authors/elisa-oostwal/</link>
+      <title>Frederieke Richert</title>
+      <link>https://michielstraat.com/authors/frederieke-richert/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://michielstraat.com/publication/dataninja-2023/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
       <guid>https://michielstraat.com/publication/dataninja-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hidden Unit Specialization in Layered Neural Networks: ReLU vs. Sigmoidal Activation</title>
-      <link>https://michielstraat.com/publication/relusigmoid/</link>
-      <pubDate>Wed, 04 Nov 2020 17:06:00 +0000</pubDate>
-      <guid>https://michielstraat.com/publication/relusigmoid/</guid>
       <description></description>
     </item>
     

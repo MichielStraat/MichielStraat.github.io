@@ -5,12 +5,20 @@
     <link>https://michielstraat.com/authors/michael-biehl/</link>
       <atom:link href="https://michielstraat.com/authors/michael-biehl/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael Biehl</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2023`</copyright><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2023`</copyright><lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://michielstraat.com/img/avatar.jpg</url>
       <title>Michael Biehl</title>
       <link>https://michielstraat.com/authors/michael-biehl/</link>
     </image>
+    
+    <item>
+      <title>Off-line Learning Analysis for Soft Committee Machines with GELU Activation</title>
+      <link>https://michielstraat.com/publication/dataninja-2023/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/publication/dataninja-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Supervised Learning in the Presence of Concept Drift: A modelling framework</title>

@@ -5,12 +5,24 @@
     <link>https://michielstraat.com/talk/</link>
       <atom:link href="https://michielstraat.com/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2023`</copyright><lastBuildDate>Wed, 20 Jul 2022 17:40:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2023`</copyright><lastBuildDate>Fri, 24 Mar 2023 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://michielstraat.com/img/avatar.jpg</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://michielstraat.com/talk/</link>
     </image>
+    
+    <item>
+      <title>Modelling adversarial training</title>
+      <link>https://michielstraat.com/talk/wisci2023/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0100</pubDate>
+      <guid>https://michielstraat.com/talk/wisci2023/</guid>
+      <description>&lt;!-- A recording of the talk can be found below.
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe width=&#34;100%&#34; height=&#34;100%&#34; src=&#34;https://www.youtube.com/embed/A0es7OZ05DI?start=1891&#34; title=&#34;YouTube video player&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt; --&gt;
+</description>
+    </item>
     
     <item>
       <title>An Industry 4.0 example: real-time quality control for steel-based mass production using Machine Learning on non-invasive sensor data</title>

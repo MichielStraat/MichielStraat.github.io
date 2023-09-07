@@ -5,12 +5,20 @@
     <link>https://michielstraat.com/authors/admin/</link>
       <atom:link href="https://michielstraat.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Michiel Straat - Researcher in Machine Learning - Bielefeld University</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2023`</copyright><lastBuildDate>Mon, 13 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2023`</copyright><lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://michielstraat.com/img/avatar.jpg</url>
       <title>Michiel Straat - Researcher in Machine Learning - Bielefeld University</title>
       <link>https://michielstraat.com/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Off-line Learning Analysis for Soft Committee Machines with GELU Activation</title>
+      <link>https://michielstraat.com/publication/dataninja-2023/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/publication/dataninja-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An Industry 4.0 example: real-time quality control for steel-based mass production using Machine Learning on non-invasive sensor data</title>
