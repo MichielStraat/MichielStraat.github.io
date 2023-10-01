@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Michiel Straat - Researcher in Machine Learning - Bielefeld University</title>
+    <title>Authors | Michiel Straat - Postdoctoral Researcher in Machine Learning - Bielefeld University</title>
     <link>https://michielstraat.com/authors/</link>
       <atom:link href="https://michielstraat.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2023`</copyright><lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2023`</copyright><lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://michielstraat.com/img/avatar.jpg</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://michielstraat.com/authors/admin/</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://michielstraat.com/authors/admin/</guid>
       <description>&lt;p&gt;I am a postdoctoral researcher in the &lt;a href=&#34;https://hammer-lab.techfak.uni-bielefeld.de/doku.php?id=home&#34; target=&#34;_blank&#34;&gt;Machine Learning group&lt;/a&gt; at Bielefeld University, where I lead a junior research group on robust life-long machine learning in the research network SAIL: SustAInable Life-cycle of Intelligent Socio-Technical Systems. In order to address important demands for AI systems  such as transparency, human agency, safety and resource-efficiency, the interdisciplinary research network SAIL focuses on the full life-cycle of AI systems. Before this, I performed my PhD research in the &lt;a href=&#34;http://www.cs.rug.nl/is/&#34; target=&#34;_blank&#34;&gt;Intelligent Systems group&lt;/a&gt; at the University of Groningen.&lt;/p&gt;
 </description>
@@ -24,7 +24,7 @@
     <item>
       <title>Elisa Oostwal</title>
       <link>https://michielstraat.com/authors/elisa-oostwal/</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://michielstraat.com/authors/elisa-oostwal/</guid>
       <description></description>
     </item>
@@ -32,7 +32,7 @@
     <item>
       <title>Frederieke Richert</title>
       <link>https://michielstraat.com/authors/frederieke-richert/</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://michielstraat.com/authors/frederieke-richert/</guid>
       <description></description>
     </item>
@@ -40,7 +40,7 @@
     <item>
       <title>Michael Biehl</title>
       <link>https://michielstraat.com/authors/michael-biehl/</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://michielstraat.com/authors/michael-biehl/</guid>
       <description></description>
     </item>

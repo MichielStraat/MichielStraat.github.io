@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Michiel Straat - Researcher in Machine Learning - Bielefeld University</title>
+    <title>Tags | Michiel Straat - Postdoctoral Researcher in Machine Learning - Bielefeld University</title>
     <link>https://michielstraat.com/tags/</link>
       <atom:link href="https://michielstraat.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2023`</copyright><lastBuildDate>Sat, 01 Apr 2017 17:06:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2023`</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://michielstraat.com/img/avatar.jpg</url>
       <title>Tags</title>
       <link>https://michielstraat.com/tags/</link>
     </image>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://michielstraat.com/tags/deep-learning/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Physics</title>
+      <link>https://michielstraat.com/tags/statistical-physics/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/tags/statistical-physics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>B-COSFIRE</title>
@@ -57,22 +73,6 @@
       <link>https://michielstraat.com/tags/retinal-image-analysis/</link>
       <pubDate>Sat, 01 Apr 2017 17:06:00 +0000</pubDate>
       <guid>https://michielstraat.com/tags/retinal-image-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://michielstraat.com/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://michielstraat.com/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>https://michielstraat.com/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://michielstraat.com/tags/demo/</guid>
       <description></description>
     </item>
     

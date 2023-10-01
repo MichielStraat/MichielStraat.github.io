@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Michiel Straat - Researcher in Machine Learning - Bielefeld University</title>
+    <title>Michiel Straat - Postdoctoral Researcher in Machine Learning - Bielefeld University</title>
     <link>https://michielstraat.com/</link>
       <atom:link href="https://michielstraat.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>Michiel Straat - Researcher in Machine Learning - Bielefeld University</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2023`</copyright><lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate>
+    <description>Michiel Straat - Postdoctoral Researcher in Machine Learning - Bielefeld University</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2023`</copyright><lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://michielstraat.com/img/avatar.jpg</url>
-      <title>Michiel Straat - Researcher in Machine Learning - Bielefeld University</title>
+      <title>Michiel Straat - Postdoctoral Researcher in Machine Learning - Bielefeld University</title>
       <link>https://michielstraat.com/</link>
     </image>
     
@@ -83,6 +83,26 @@
     </item>
     
     <item>
+      <title>Layered Neural Networks with GELU Activation, a Statistical Mechanics Analysis</title>
+      <link>https://michielstraat.com/publication/esann-2023/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/publication/esann-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Physics of Learning</title>
+      <link>https://michielstraat.com/talk/group2023/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0100</pubDate>
+      <guid>https://michielstraat.com/talk/group2023/</guid>
+      <description>&lt;!-- A recording of the talk can be found below.
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe width=&#34;100%&#34; height=&#34;100%&#34; src=&#34;https://www.youtube.com/embed/A0es7OZ05DI?start=1891&#34; title=&#34;YouTube video player&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt; --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Off-line Learning Analysis for Soft Committee Machines with GELU Activation</title>
       <link>https://michielstraat.com/publication/dataninja-2023/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
@@ -99,6 +119,19 @@
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe width=&#34;100%&#34; height=&#34;100%&#34; src=&#34;https://www.youtube.com/embed/A0es7OZ05DI?start=1891&#34; title=&#34;YouTube video player&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt; --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SAIL</title>
+      <link>https://michielstraat.com/project/sail/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/project/sail/</guid>
+      <description>&lt;p&gt;Artificial Intelligence is ubiquitous in our society and a key driver of economic growth. This comes with societal and technological challenges, as the increasing proliferation of current AI in society can reduce the autonomy of humans instead of supporting it. In order to address demands for transparency of AI, human agency, safety and resource-efficiency, the research project &lt;a href=&#34;https://sail.nrw&#34; target=&#34;_blank&#34;&gt;SAIL&lt;/a&gt; focuses on the full life-cycle of AI systems. This highly interdisciplinary research project (Core AI, humanities, social sciences and engineering) paves the way for systems that are sustainable with respect to short-term and long-term objectives and take care of their technical, cognitive and societal impact at reasonable operating costs.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sail.nrw&#34; target=&#34;_blank&#34;&gt;SAIL.nrw&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Funding: Ministry of Culture and Science of the Federal State North Rhine-Westphalia&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -141,6 +174,19 @@
     </item>
     
     <item>
+      <title>Statistical Physics of Learning</title>
+      <link>https://michielstraat.com/project/statphys/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/project/statphys/</guid>
+      <description>&lt;p&gt;In the deep learning era, many great results are achieved by empirical study. New deep learning methods for typical tasks in for instance computer vision, natural language processing and sound processing are tested on benchmark datasets that are publicly available and have become recognised in the respective fields. This facilitates the comparison of different approaches on these typical tasks. However, in order to make further fundamental progress, the great successes of deep learning in practice should also be supported by more theoretical results.&lt;/p&gt;
+
+&lt;p&gt;One theoretical approach that has seen renewed interest in recent years is &lt;em&gt;The Statistical Physics of Learning&lt;/em&gt;. As the name suggests, it uses statistical physics theory to analyse Machine Learning scenarios. Statistical physics is concerned with modelling the overall properties (macroscopics) of systems that consist of many microscopic entities or particles. A neural network is a machine learning system that consists of many weights (microscopics) that connect neurons, and a configuration of weights realises a certain model with specific properties (macrosopics). The hallmark of The Statistical Physics of Learning approaches are &lt;em&gt;average case results&lt;/em&gt; of the main descriptive quantities in machine learning scenarios, i.e. typical results of the training error, the generalisation/test error as well as other summarising parameters of the state of the model, known as &lt;em&gt;order parameters&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;We are using the statistical physics of learning to study recent phenomena in machine learning and also to study potential new approaches for machine learning practice. We are studying typical learning behaviour of models with modern activation functions (ReLU, Leaky ReLU, GeLU) and models in dynamic environments.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Hidden Unit Specialization in Layered Neural Networks: ReLU vs. Sigmoidal Activation</title>
       <link>https://michielstraat.com/publication/relusigmoid/</link>
       <pubDate>Wed, 04 Nov 2020 17:06:00 +0000</pubDate>
@@ -166,6 +212,14 @@
   &lt;iframe width=&#34;100%&#34; height=&#34;100%&#34; src=&#34;https://www.youtube.com/embed/A0es7OZ05DI?start=1891&#34; title=&#34;YouTube video player&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Reinforcement learning based control of dynamical systems</title>
+      <link>https://michielstraat.com/project/dynsystemcontrol/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/project/dynsystemcontrol/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -676,6 +730,23 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Machine Learning for health</title>
+      <link>https://michielstraat.com/project/health/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/project/health/</guid>
+      <description>&lt;p&gt;Machine Learning methods for among others computer vision and signal analysis have great potential for improving health care. I have been working on projects related to disease diagnosis of the eye and heart arrhythmia identification. I am currently working on projects concerning sleep disorders.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Region of Smart Factories (RoSF), Industry 4.0</title>
+      <link>https://michielstraat.com/project/industry/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/project/industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Statistical Mechanics of On-Line Learning Under Concept Drift</title>
       <link>https://michielstraat.com/publication/entropy-2018/</link>
       <pubDate>Mon, 01 Oct 2018 17:06:00 +0000</pubDate>
@@ -721,31 +792,6 @@ $$&lt;/p&gt;
       <pubDate>Sat, 01 Apr 2017 17:06:00 +0000</pubDate>
       <guid>https://michielstraat.com/publication/scrug-2017/</guid>
       <description>&lt;p&gt;This paper was part of the &lt;a href=&#34;http://www.studentcolloquium.nl/2017/&#34; target=&#34;_blank&#34;&gt;14th Student Colloquium&lt;/a&gt; at the University of Groningen and won the Best Paper Award there. You can find the proceedings with all the contributions &lt;a href=&#34;http://www.studentcolloquium.nl/proceedings/proceedings-2017.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://michielstraat.com/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://michielstraat.com/project/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internal Project</title>
-      <link>https://michielstraat.com/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://michielstraat.com/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
     </item>
     

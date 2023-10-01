@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types | Michiel Straat - Researcher in Machine Learning - Bielefeld University</title>
+    <title>Publication_types | Michiel Straat - Postdoctoral Researcher in Machine Learning - Bielefeld University</title>
     <link>https://michielstraat.com/publication_types/</link>
       <atom:link href="https://michielstraat.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2023`</copyright><lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2023`</copyright><lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://michielstraat.com/img/avatar.jpg</url>
       <title>Publication_types</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>4</title>
-      <link>https://michielstraat.com/publication_types/4/</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://michielstraat.com/publication_types/4/</guid>
+      <title>1</title>
+      <link>https://michielstraat.com/publication_types/1/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/publication_types/1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>1</title>
-      <link>https://michielstraat.com/publication_types/1/</link>
-      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://michielstraat.com/publication_types/1/</guid>
+      <title>4</title>
+      <link>https://michielstraat.com/publication_types/4/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/publication_types/4/</guid>
       <description></description>
     </item>
     

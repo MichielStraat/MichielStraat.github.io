@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistical Physics | Michiel Straat - Postdoctoral Researcher in Machine Learning - Bielefeld University</title>
+    <link>https://michielstraat.com/tags/statistical-physics/</link>
+      <atom:link href="https://michielstraat.com/tags/statistical-physics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Statistical Physics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2023`</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://michielstraat.com/img/avatar.jpg</url>
+      <title>Statistical Physics</title>
+      <link>https://michielstraat.com/tags/statistical-physics/</link>
+    </image>
+    
+    <item>
+      <title>Statistical Physics of Learning</title>
+      <link>https://michielstraat.com/project/statphys/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/project/statphys/</guid>
+      <description>&lt;p&gt;In the deep learning era, many great results are achieved by empirical study. New deep learning methods for typical tasks in for instance computer vision, natural language processing and sound processing are tested on benchmark datasets that are publicly available and have become recognised in the respective fields. This facilitates the comparison of different approaches on these typical tasks. However, in order to make further fundamental progress, the great successes of deep learning in practice should also be supported by more theoretical results.&lt;/p&gt;
+
+&lt;p&gt;One theoretical approach that has seen renewed interest in recent years is &lt;em&gt;The Statistical Physics of Learning&lt;/em&gt;. As the name suggests, it uses statistical physics theory to analyse Machine Learning scenarios. Statistical physics is concerned with modelling the overall properties (macroscopics) of systems that consist of many microscopic entities or particles. A neural network is a machine learning system that consists of many weights (microscopics) that connect neurons, and a configuration of weights realises a certain model with specific properties (macrosopics). The hallmark of The Statistical Physics of Learning approaches are &lt;em&gt;average case results&lt;/em&gt; of the main descriptive quantities in machine learning scenarios, i.e. typical results of the training error, the generalisation/test error as well as other summarising parameters of the state of the model, known as &lt;em&gt;order parameters&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;We are using the statistical physics of learning to study recent phenomena in machine learning and also to study potential new approaches for machine learning practice. We are studying typical learning behaviour of models with modern activation functions (ReLU, Leaky ReLU, GeLU) and models in dynamic environments.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

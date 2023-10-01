@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Elisa Oostwal | Michiel Straat - Researcher in Machine Learning - Bielefeld University</title>
+    <title>Elisa Oostwal | Michiel Straat - Postdoctoral Researcher in Machine Learning - Bielefeld University</title>
     <link>https://michielstraat.com/authors/elisa-oostwal/</link>
       <atom:link href="https://michielstraat.com/authors/elisa-oostwal/index.xml" rel="self" type="application/rss+xml" />
     <description>Elisa Oostwal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2023`</copyright><lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2023`</copyright><lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://michielstraat.com/img/avatar.jpg</url>
       <title>Elisa Oostwal</title>
       <link>https://michielstraat.com/authors/elisa-oostwal/</link>
     </image>
+    
+    <item>
+      <title>Layered Neural Networks with GELU Activation, a Statistical Mechanics Analysis</title>
+      <link>https://michielstraat.com/publication/esann-2023/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/publication/esann-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Off-line Learning Analysis for Soft Committee Machines with GELU Activation</title>

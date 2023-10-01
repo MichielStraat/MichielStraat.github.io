@@ -19,36 +19,66 @@
   
   <url>
     <loc>https://michielstraat.com/authors/admin/</loc>
-    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://michielstraat.com/publication_types/4/</loc>
-    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+    <loc>https://michielstraat.com/publication_types/1/</loc>
+    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://michielstraat.com/authors/</loc>
-    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://michielstraat.com/authors/elisa-oostwal/</loc>
-    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://michielstraat.com/authors/frederieke-richert/</loc>
-    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michielstraat.com/publication/esann-2023/</loc>
+    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://michielstraat.com/authors/michael-biehl/</loc>
-    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://michielstraat.com/</loc>
+    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michielstraat.com/publication_types/</loc>
+    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michielstraat.com/publication/</loc>
+    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michielstraat.com/talk/</loc>
+    <lastmod>2023-06-27T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michielstraat.com/talk/group2023/</loc>
+    <lastmod>2023-06-27T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michielstraat.com/publication_types/4/</loc>
     <lastmod>2023-05-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,33 +88,23 @@
   </url>
   
   <url>
-    <loc>https://michielstraat.com/publication_types/</loc>
-    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michielstraat.com/publication/</loc>
-    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://michielstraat.com/talk/wisci2023/</loc>
     <lastmod>2023-03-24T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://michielstraat.com/talk/</loc>
-    <lastmod>2023-03-24T00:00:00+01:00</lastmod>
+    <loc>https://michielstraat.com/project/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michielstraat.com/project/sail/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://michielstraat.com/talk/ijcnn2022/</loc>
     <lastmod>2022-07-20T17:40:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michielstraat.com/publication_types/1/</loc>
-    <lastmod>2022-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -143,6 +163,26 @@
   </url>
   
   <url>
+    <loc>https://michielstraat.com/tags/deep-learning/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michielstraat.com/tags/statistical-physics/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michielstraat.com/project/statphys/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michielstraat.com/tags/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://michielstraat.com/publication/relusigmoid/</loc>
     <lastmod>2020-11-04T17:06:00+00:00</lastmod>
   </url>
@@ -170,6 +210,11 @@
   <url>
     <loc>https://michielstraat.com/talk/leshouches2020/</loc>
     <lastmod>2020-08-12T19:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michielstraat.com/project/dynsystemcontrol/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -258,6 +303,16 @@
   </url>
   
   <url>
+    <loc>https://michielstraat.com/project/health/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michielstraat.com/project/industry/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://michielstraat.com/publication/entropy-2018/</loc>
     <lastmod>2018-10-01T17:06:00+00:00</lastmod>
   </url>
@@ -320,36 +375,6 @@
   <url>
     <loc>https://michielstraat.com/publication/scrug-2017/</loc>
     <lastmod>2017-04-01T17:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michielstraat.com/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michielstraat.com/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michielstraat.com/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michielstraat.com/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michielstraat.com/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michielstraat.com/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
