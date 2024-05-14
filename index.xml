@@ -5,7 +5,7 @@
     <link>https://michielstraat.com/</link>
       <atom:link href="https://michielstraat.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Michiel Straat - Postdoctoral Researcher in Machine Learning - Bielefeld University</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2024`</copyright><lastBuildDate>Mon, 22 Jan 2024 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2024`</copyright><lastBuildDate>Tue, 14 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://michielstraat.com/img/avatar.jpg</url>
       <title>Michiel Straat - Postdoctoral Researcher in Machine Learning - Bielefeld University</title>
@@ -80,6 +80,14 @@
 
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Koopman-Based Surrogate Modelling of Turbulent Rayleigh-Bénard Convection</title>
+      <link>https://michielstraat.com/publication/ijcnn2024/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/publication/ijcnn2024/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -231,7 +239,8 @@
       <link>https://michielstraat.com/project/dynsystemcontrol/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://michielstraat.com/project/dynsystemcontrol/</guid>
-      <description></description>
+      <description>&lt;p&gt;In this project we employ novel AI techniques from reinforcement learning, sequence modelling and dimensionality reduction to learn complex controllers efficiently.&lt;/p&gt;
+</description>
     </item>
     
     <item>

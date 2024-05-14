@@ -5,12 +5,20 @@
     <link>https://michielstraat.com/authors/barbara-hammer/</link>
       <atom:link href="https://michielstraat.com/authors/barbara-hammer/index.xml" rel="self" type="application/rss+xml" />
     <description>Barbara Hammer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2024`</copyright><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2024`</copyright><lastBuildDate>Tue, 14 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://michielstraat.com/img/avatar.jpg</url>
       <title>Barbara Hammer</title>
       <link>https://michielstraat.com/authors/barbara-hammer/</link>
     </image>
+    
+    <item>
+      <title>Koopman-Based Surrogate Modelling of Turbulent Rayleigh-Bénard Convection</title>
+      <link>https://michielstraat.com/publication/ijcnn2024/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/publication/ijcnn2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Supervised Learning in the Presence of Concept Drift: A modelling framework</title>
