@@ -5,7 +5,7 @@
     <link>https://michielstraat.com/authors/</link>
       <atom:link href="https://michielstraat.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2024`</copyright><lastBuildDate>Tue, 14 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2025`</copyright><lastBuildDate>Tue, 22 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://michielstraat.com/img/avatar.jpg</url>
       <title>Authors</title>
@@ -15,24 +15,34 @@
     <item>
       <title></title>
       <link>https://michielstraat.com/authors/admin/</link>
-      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://michielstraat.com/authors/admin/</guid>
-      <description>&lt;p&gt;I am a postdoctoral researcher in the &lt;a href=&#34;https://hammer-lab.techfak.uni-bielefeld.de/doku.php?id=home&#34; target=&#34;_blank&#34;&gt;Machine Learning group&lt;/a&gt; at Bielefeld University, where I lead a junior research group on robust life-long machine learning in the research network SAIL: SustAInable Life-cycle of Intelligent Socio-Technical Systems. In order to address important demands for AI systems  such as transparency, human agency, safety and resource-efficiency, the interdisciplinary research network SAIL focuses on the full life-cycle of AI systems. Before this, I performed my PhD research in the &lt;a href=&#34;http://www.cs.rug.nl/is/&#34; target=&#34;_blank&#34;&gt;Intelligent Systems group&lt;/a&gt; at the University of Groningen.&lt;/p&gt;
+      <description>&lt;p&gt;I am a Postdoctoral Researcher and Junior Research Group Leader at Bielefeld University. Our Junior Research Group develops Artificial Intelligence methods for modeling and controlling complex physical systems. Motivated by major global challenges such as climate change and the energy transition, we explore how AI can help understand and model the dynamics of systems in fluid mechanics, and how to enforce desired outcomes through advanced control strategies. A key focus of our research is improving the robustness of these methods under changing conditions and increasing their sample efficiency by using surrogate models and embedding physical knowledge directly into the learning process.&lt;/p&gt;
+
+&lt;p&gt;Prior to this, I obtained my PhD (with Highest Distinction) from the University of Groningen, where I was part of the Intelligent Systems group. My doctoral research focused on the theory of neural networks, and I developed a successful predictive maintenance system for a smart factory environment.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Barbara Hammer</title>
       <link>https://michielstraat.com/authors/barbara-hammer/</link>
-      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://michielstraat.com/authors/barbara-hammer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian Peitz</title>
+      <link>https://michielstraat.com/authors/sebastian-peitz/</link>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/authors/sebastian-peitz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thorben Markmann</title>
       <link>https://michielstraat.com/authors/thorben-markmann/</link>
-      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://michielstraat.com/authors/thorben-markmann/</guid>
       <description></description>
     </item>

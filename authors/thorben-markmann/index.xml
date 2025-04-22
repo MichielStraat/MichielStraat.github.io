@@ -5,12 +5,28 @@
     <link>https://michielstraat.com/authors/thorben-markmann/</link>
       <atom:link href="https://michielstraat.com/authors/thorben-markmann/index.xml" rel="self" type="application/rss+xml" />
     <description>Thorben Markmann</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2024`</copyright><lastBuildDate>Tue, 14 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2025`</copyright><lastBuildDate>Tue, 22 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://michielstraat.com/img/avatar.jpg</url>
       <title>Thorben Markmann</title>
       <link>https://michielstraat.com/authors/thorben-markmann/</link>
     </image>
+    
+    <item>
+      <title>Control of Rayleigh-Bénard Convection: Effectiveness of Reinforcement Learning in the Turbulent Regime</title>
+      <link>https://michielstraat.com/publication/icann-2025/</link>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/publication/icann-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving Turbulent Rayleigh-Bénard Convection using Fourier Neural Operators</title>
+      <link>https://michielstraat.com/publication/esann-2025/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/publication/esann-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Koopman-Based Surrogate Modelling of Turbulent Rayleigh-Bénard Convection</title>
