@@ -5,12 +5,20 @@
     <link>https://michielstraat.com/authors/admin/</link>
       <atom:link href="https://michielstraat.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Michiel Straat - Postdoctoral Researcher in Machine Learning - Bielefeld University</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2025`</copyright><lastBuildDate>Tue, 22 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2025`</copyright><lastBuildDate>Fri, 29 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://michielstraat.com/img/avatar.jpg</url>
       <title>Michiel Straat - Postdoctoral Researcher in Machine Learning - Bielefeld University</title>
       <link>https://michielstraat.com/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Hermite Polynomials Facilitating On-line Learning Analysis of Layered Neural Networks with Arbitrary Activation Function</title>
+      <link>https://michielstraat.com/publication/neurocomputing-2025/</link>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/publication/neurocomputing-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Control of Rayleigh-Bénard Convection: Effectiveness of Reinforcement Learning in the Turbulent Regime</title>

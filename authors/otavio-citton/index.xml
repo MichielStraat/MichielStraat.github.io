@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Otavio Citton | Michiel Straat - Postdoctoral Researcher in Machine Learning - Bielefeld University</title>
+    <link>https://michielstraat.com/authors/otavio-citton/</link>
+      <atom:link href="https://michielstraat.com/authors/otavio-citton/index.xml" rel="self" type="application/rss+xml" />
+    <description>Otavio Citton</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2025`</copyright><lastBuildDate>Fri, 29 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://michielstraat.com/img/avatar.jpg</url>
+      <title>Otavio Citton</title>
+      <link>https://michielstraat.com/authors/otavio-citton/</link>
+    </image>
+    
+    <item>
+      <title>Hermite Polynomials Facilitating On-line Learning Analysis of Layered Neural Networks with Arbitrary Activation Function</title>
+      <link>https://michielstraat.com/publication/neurocomputing-2025/</link>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://michielstraat.com/publication/neurocomputing-2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
