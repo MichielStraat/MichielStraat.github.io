@@ -5,7 +5,7 @@
     <link>https://michielstraat.com/authors/</link>
       <atom:link href="https://michielstraat.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2025`</copyright><lastBuildDate>Fri, 29 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michiel Straat  `2026`</copyright><lastBuildDate>Fri, 29 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://michielstraat.com/img/avatar.jpg</url>
       <title>Authors</title>
@@ -17,9 +17,11 @@
       <link>https://michielstraat.com/authors/admin/</link>
       <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://michielstraat.com/authors/admin/</guid>
-      <description>&lt;p&gt;I am a Postdoctoral Researcher and Junior Research Group Leader at Bielefeld University. Our Junior Research Group develops Artificial Intelligence methods for modeling and controlling complex physical systems. Motivated by major global challenges such as climate change and the energy transition, we explore how AI can help understand and model the dynamics of systems in fluid mechanics, and how to enforce desired outcomes through advanced control strategies. A key focus of our research is improving the robustness of these methods under changing conditions and increasing their sample efficiency by using surrogate models and embedding physical knowledge directly into the learning process.&lt;/p&gt;
+      <description>&lt;p&gt;Hi! I&amp;rsquo;m Michiel. I&amp;rsquo;m a researcher at Bielefeld University.&lt;/p&gt;
 
-&lt;p&gt;Prior to this, I obtained my PhD (with Highest Distinction) from the University of Groningen, where I was part of the Intelligent Systems group. My &lt;a href=&#34;https://research.rug.nl/en/publications/machine-learning-statistical-physics-based-theory-and-smart-indus&#34; target=&#34;_blank&#34;&gt;doctoral research&lt;/a&gt; focused on the theory of neural networks, and I developed a successful predictive maintenance system for a smart factory environment.&lt;/p&gt;
+&lt;p&gt;My research focuses on learning theory, physics-informed machine learning, reinforcement learning, surrogate modeling, and machine learning for smart manufacturing.&lt;/p&gt;
+
+&lt;p&gt;Before joining Bielefeld University, I worked at the University of Groningen on learning theory for neural networks and predictive maintenance.&lt;/p&gt;
 </description>
     </item>
     
